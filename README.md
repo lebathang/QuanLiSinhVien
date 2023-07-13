@@ -8,4 +8,5 @@
 - Hoàn thành code ngày: 10/7/2023.
 - Công bố Version 1.0: 14/7/2023 (Hoàn thành sơ bộ).
 - Điểm nhận được: (biết thấp là được)
-- Thiếu sót: Chưa kết nối database, thiếu sót và lỗi còn quá nhiều, controller chưa làm. -> code thua xa so vs [QuanLiThuVien](https://github.com/lebathang/QuanLiThuVien)
+- Thiếu sót: Chưa kết nối database, thiếu sót và lỗi còn quá nhiều, controller chưa làm.
+- :point_right:	 code thua xa so vs [QuanLiThuVien](https://github.com/lebathang/QuanLiThuVien)
